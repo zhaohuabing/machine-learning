@@ -1,0 +1,31 @@
+{
+    "plugins": [
+        "disqus",
+        "katex",
+        "github"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "machine-learning-bi-ji"
+        },
+        "github": {
+            "url": "https://github.com/zhaohuabing/machine-learning"
+        },
+        "github-buttons": {
+            "buttons": [
+                {
+                    "user": "zhaohuabing",
+                    "repo": "machine-learning",
+                    "type": "star",
+                    "size": "small"
+                },
+                {
+                    "user": "zhaohuabing",
+                    "type": "follow",
+                    "size": "small",
+                    "count": false
+                }
+            ]
+        }
+    }
+}
